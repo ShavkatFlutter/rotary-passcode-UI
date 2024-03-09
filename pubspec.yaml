@@ -1,0 +1,20 @@
+name: flutter_rotary_passcode
+description: Flutter rotary passcode UI challenge.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  local_hero: ^0.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
